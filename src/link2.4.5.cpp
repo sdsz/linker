@@ -23,6 +23,8 @@ DWORD WINAPI Recv(LPVOID lp)
 		SetConsoleTextAttribute(handle, 7);
 	}
 }
+
+
 int main()
 {
 	SOCKADDR_IN addrSrv;
