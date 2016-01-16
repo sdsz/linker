@@ -1,3 +1,7 @@
-#Introduction#
+# Chatroom
 
-This is a talker in command
+Command-line Chatroom for Linux, with simple server.
+
+Clone the repo and compile it with:
+
+	gcc linker.cpp -o linker
